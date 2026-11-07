@@ -41,6 +41,29 @@ Average review score: 4.13/5
 
 Positive reviews (4 or 5): 77.99%
 
+6. Extra Business Finding
+Delivery Time and Customer Reviews
+Finding:
+
+Late delivery may make customers unhappy and lead to low review scores. We can study delivery time and customer reviews to find out if this is happening.
+
+Business Strategies:
+- Find the regions where orders are often late.
+- Find sellers who deliver orders late.
+- Improve delivery services in those regions.
+- Give customers correct delivery dates.
+- Check if better delivery leads to better reviews.
+Business Benefit:
+
+Faster delivery can make customers happy. Happy customers may give better reviews and buy again.
+7. More Ways to Improve the Business
+Area	Strategy	Benefit
+Product Sales	Give offers on popular products.	Increase sales
+Low-Sales Regions	Give special discounts in these regions.	Get more customers
+Customer Reviews	Find out why customers give low ratings.	Improve customer happiness
+Order Value	Offer discounts when customers buy more.	Increase order value
+Delivery	Improve delivery in areas with delays.	Get better reviews
+
 ## Files Generated
 
 - cleaned_order_items.csv
