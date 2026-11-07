@@ -1,0 +1,32 @@
+{
+    "original_rows": {
+        "orders": 99441,
+        "items": 112650,
+        "products": 32951,
+        "reviews": 99224,
+        "customers": 99441
+    },
+    "cleaned_rows": {
+        "orders": 45101,
+        "items": 112650,
+        "products": 32951,
+        "reviews": 99224,
+        "customers": 99441
+    },
+    "analysis_period": [
+        "2017-01-01",
+        "2018-01-01"
+    ],
+    "revenue_definition": "Sum of item price, excluding freight",
+    "aov_definition": "Mean order-level item price plus freight",
+    "cleaning_methods": [
+        "Duplicates removed before missing-value treatment",
+        "Price: product-wise mean, then category-wise mean",
+        "Freight: state-wise mean, then seller-wise mean",
+        "Zero used as final freight fallback",
+        "Missing categories labelled unknown",
+        "Review scores not imputed",
+        "Reviews aggregated by order",
+        "Canceled and unavailable orders excluded"
+    ]
+}

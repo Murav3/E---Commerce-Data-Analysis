@@ -1,0 +1,7 @@
+Dataset,Rows Before,Rows After,Rows Removed,Action
+Orders,99441,99441,0,Removed duplicate order IDs
+Order Items,112650,112650,0,Removed duplicate order items
+Products,32951,32951,0,Removed duplicate product IDs
+Customers,99441,99441,0,Removed duplicate customer IDs
+Reviews,99224,99224,0,Removed exact duplicate review rows
+Category Translation,71,71,0,Removed duplicate category translations
