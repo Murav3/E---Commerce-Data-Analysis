@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Olist E-Commerce Sales Analysis — Project 01
 
 ## 1. Project Overview
@@ -89,3 +90,6 @@ The Streamlit dashboard displays key metrics, filters, and interactive charts fo
 - **AOV:** Average order value, including product prices and freight.
 - **Best Region:** Customer state with the highest product revenue.
 - **Review Distribution:** One average review score per order.
+=======
+# E---Commerce-Data-Analysis
+>>>>>>> 59a88971871b713309b620c5c07c64acc3d39a3d
